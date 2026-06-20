@@ -1,0 +1,17 @@
+.container-fluid{
+background-color: black;
+color: white;
+font-size: 26px;
+border: 1px solid red;
+
+
+}
+.container{
+font-size: 26px;
+border: 1px solid red;
+background-color: black;
+color: white;
+
+
+
+}

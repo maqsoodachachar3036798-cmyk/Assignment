@@ -1,0 +1,53 @@
+t.logo{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+/*  NAVBAR  */
+.navbar{
+display: flex;
+justify-content: space-between;
+align-items: center;
+background: #0b3d91;
+padding: 10px  30px;
+gap: 100;
+}
+.logo img{
+width: 100px;
+border-radius: 50%;
+
+
+}
+.nav-links{
+gap: 100px;
+
+}
+
+
+
+
+.nav-links a{
+color: white;
+text-decoration: none;
+font-size: 20px;
+
+}
+.nav-links a:hover{
+color: yellow;
+
+}
+/* HERO IMAGE */
+.hero img {
+width: 800px;
+height: 360px;
+
+}
+/*  footer  */
+.footer{
+background-color: #222;
+color: white;
+text-align: center;
+padding: 15px;
+
+}

@@ -1,0 +1,40 @@
+.container{
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: chartreuse;
+padding: 10px 30px;
+
+}
+.logo img{
+width: 100px;
+border-radius: 50%;
+
+
+}
+.nice{
+gap: 50px;
+
+
+}
+.nice a{
+color: aqua;
+text-decoration: none;
+font-size: 20px;
+}
+.nice a:hover{
+color: brown;
+
+
+}
+.hero img{
+width: 100%;
+
+
+}
+.footer{
+background-color: red;
+color: white;
+text-align: center;
+padding: 15px;
+}
