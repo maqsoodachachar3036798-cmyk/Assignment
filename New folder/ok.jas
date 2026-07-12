@@ -1,0 +1,40 @@
+// addition
+// let p=100;
+// let d=10;
+// let z=p+d;
+// console.log(z);
+
+// let p=100,d=10,z=p+d;
+// console.log(z);
+
+// subraction
+// let x=10-7;
+// console.log(x);
+// let p=100;
+// let d=10;
+// let z=d-p;
+// console.log(z);
+
+// multiplication
+// let p=200;
+// let d=2;
+// let z=d*p;
+// console.log(z);
+
+// division
+// let p=100;
+// let d=5;
+// let z=d/p;
+// console.log(z);
+
+// modulus
+// let a=100;
+// let b=3;
+// let c=a%b;
+// console.log(c);
+
+// exponentiation
+let a=200;
+let d=2;
+let f=a**d;
+console.log(f);
